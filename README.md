@@ -11,4 +11,19 @@
 </p>
 
 <h1 align="center">AppleElements</h1>
-<h3 align="center">A collection of Apple GUI elements from OS X and iOS</h3>
+<h2 align="center">A collection of Apple GUI elements from Mac OS and more</h2>
+
+### Resources
+- **AppleElements** – Main catalogue of Mac OS elements and resources (coming soon)
+
+### Websites
+- **Macintosh Garden** – Abandonware archive featuring CD / DVD images of Mac OS software
+
+	<a href="https://macintoshgarden.org">
+		<img src="develop/repo/resources/sites/mg-logo.png" alt="Macintosh Garden"/>
+	</a>
+- **Internet Archive** – Digital library including application software for Mac OS
+
+	<a href="https://archive.org">
+		<img src="develop/repo/resources/sites/ia-logo.png" alt="Internet Archive"/>
+	</a>
